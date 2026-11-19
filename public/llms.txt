@@ -1,0 +1,60 @@
+Tarak Program
+
+«Tarak Program is an open-source technology initiative founded and created by Taraknath Karan. It develops web applications, digital tools, and technology projects.»
+
+Organization
+
+- Name: Tarak Program
+- Official website: https://tarakpro.netlify.app/
+- Founder and creator: Taraknath Karan
+- Founder portfolio: https://taraknath341.github.io/
+- GitHub: https://github.com/taraknath341
+- Type: Open-source technology initiative
+
+About
+
+- "About Tarak Program" (https://tarakpro.netlify.app/#/about): Information about Tarak Program, its creator, and its mission.
+
+Projects
+
+Tarak Program develops and maintains the following projects:
+
+- Tarak Search
+- Tarak Notes: A free online notepad where users can create, edit, and securely save notes with their accounts. It includes AI-assisted writing and translation features.
+- Tarak AI
+- Tarak Translate
+- Fire Ludo
+- Stone Paper Scissors
+- QR Code Generator
+
+The projects are accessible through the Projects section of the official website.
+
+- "Projects / Home" (https://tarakpro.netlify.app/)
+
+Videos
+
+- "Videos" (https://tarakpro.netlify.app/#/video): Videos related to Tarak Program, its projects, and activities.
+
+Support
+
+- "Supporters" (https://tarakpro.netlify.app/#/supporters): Information about supporters of Tarak Program.
+
+Creator
+
+- Name: Taraknath Karan
+- Role: Creator, CEO, and self-taught web developer
+- Personal website: https://taraknath341.github.io/
+- GitHub profile: https://github.com/taraknath341/
+
+Official Links
+
+- Website: https://tarakpro.netlify.app/
+- Creator portfolio: https://taraknath341.github.io/
+- GitHub: https://github.com/taraknath341
+
+Website Navigation
+
+- Home / Projects: https://tarakpro.netlify.app/
+- About: https://tarakpro.netlify.app/#/about
+- Videos: https://tarakpro.netlify.app/#/video
+- Supporters: https://tarakpro.netlify.app/#/supporters
