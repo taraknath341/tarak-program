@@ -5,4 +5,108 @@ Allow: /
 Allow: /index.html
 
 # Sitemap
-Sitemap: https://gshs.tarak.nx.kg/sitemap.xml
+Sitemap: https://tarakpro.netlify.app/sitemap.xml
+
+# OpenAI - ChatGPT Search
+User-agent: OAI-SearchBot
+Allow: /
+
+# OpenAI - User requested page fetch
+User-agent: ChatGPT-User
+Allow: /
+
+# OpenAI - AI model training
+User-agent: GPTBot
+Disallow: /
+
+# Anthropic - Claude Search
+User-agent: Claude-SearchBot
+Allow: /
+
+# Anthropic - User requested fetch
+User-agent: Claude-User
+Allow: /
+
+# Anthropic - Model training
+User-agent: ClaudeBot
+Disallow: /
+
+# Perplexity - AI Search
+User-agent: PerplexityBot
+Allow: /
+
+# Perplexity - User requested fetch
+User-agent: Perplexity-User
+Allow: /
+
+# Google - Search and AI Search
+User-agent: Googlebot
+Allow: /
+
+# Google - Gemini training and grounding control
+User-agent: Google-Extended
+Disallow: /
+
+# Google - Other crawlers
+User-agent: GoogleOther
+Allow: /
+
+# Microsoft - Bing Search and AI Search
+User-agent: Bingbot
+Allow: /
+
+# Apple - Search, Siri and Spotlight
+User-agent: Applebot
+Allow: /
+
+# Apple - AI model training control
+User-agent: Applebot-Extended
+Disallow: /
+
+# Meta - AI Search
+User-agent: Meta-WebIndexer
+Allow: /
+
+# Meta - AI training and data collection
+User-agent: meta-externalagent
+Disallow: /
+
+# Meta - User requested fetch
+User-agent: Meta-ExternalFetcher
+Allow: /
+
+# Amazon - Search
+User-agent: Amzn-SearchBot
+Allow: /
+
+# Amazon - User requested fetch
+User-agent: Amzn-User
+Allow: /
+
+# Amazon - Data collection and AI training
+User-agent: Amazonbot
+Disallow: /
+
+# Mistral - AI Search
+User-agent: MistralAI-Index
+Allow: /
+
+# Mistral - User requested fetch
+User-agent: MistralAI-User
+Allow: /
+
+# Mistral - Model training
+User-agent: MistralAI-Training
+Disallow: /
+
+# DuckDuckGo - AI Search
+User-agent: DuckAssistBot
+Allow: /
+
+# Common Crawl - Public datasets
+User-agent: CCBot
+Disallow: /
+
+# ByteDance - Data collection
+User-agent: Bytespider
+Disallow: /
