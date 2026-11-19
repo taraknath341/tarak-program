@@ -2,7 +2,7 @@
    import Card from "../components/common/Card.svelte";
 </script>
 
-<main>
+<main class="container">
    {#each about as { title, content, image }, i (i)}
       <Card {title} {content} {image} />
    {/each}

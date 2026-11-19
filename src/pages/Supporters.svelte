@@ -2,7 +2,7 @@
    import Card from "../components/common/Card.svelte";
 </script>
 
-<main>
+<main class="container">
    {#each supporters as { title, content, image, url }, i (i)}
       <Card {title} {content} {image} {url} />
    {/each}

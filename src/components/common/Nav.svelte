@@ -2,23 +2,25 @@
    import { IconHome, IconInfoCircle, IconVideo, IconUserCode, IconHeartHandshake } from "@tabler/icons-svelte-runes";
 </script>
 
-<nav>
-   <ul>
-      <li>
-         <img src="https://taraknath341.codeberg.page/client_storage/logo.svg" alt="logo" />
-      </li>
-   </ul>
-   <ul>
-      <li><a href="/#/"><IconHome stroke={2} size={28} /></a></li>
-      <li><a href="/#/about"><IconInfoCircle stroke={2} size={28} /></a></li>
-      <li><a href="/#/video"><IconVideo stroke={2} size={28} /></a></li>
-      <li><a href="https://taraknath341.github.io"><IconUserCode stroke={2} size={28} /></a></li>
-      <li><a href="/#/supporters"><IconHeartHandshake stroke={2} size={28} /></a></li>
-   </ul>
-</nav>
+<header class="container">
+   <nav>
+      <ul>
+         <li>
+            <img src="https://taraknath341.codeberg.page/client_storage/logo.svg" alt="logo" />
+         </li>
+      </ul>
+      <ul>
+         <li><a href="/#/"><IconHome stroke={2} size={28} /></a></li>
+         <li><a href="/#/about"><IconInfoCircle stroke={2} size={28} /></a></li>
+         <li><a href="/#/video"><IconVideo stroke={2} size={28} /></a></li>
+         <li><a href="https://taraknath341.github.io"><IconUserCode stroke={2} size={28} /></a></li>
+         <li><a href="/#/supporters"><IconHeartHandshake stroke={2} size={28} /></a></li>
+      </ul>
+   </nav>
+</header>
 
 <style>
-   nav {
+   header {
       position: sticky;
       top: 0;
       background: color-mix(in srgb, var(--pico-background-color) 70%, #00000000);
